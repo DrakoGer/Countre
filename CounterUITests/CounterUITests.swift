@@ -2,7 +2,7 @@
 //  CounterUITests.swift
 //  CounterUITests
 //
-//  Created by Yura on 13.10.24.
+//  Created by Yura on 12.10.24.
 //
 
 import XCTest
